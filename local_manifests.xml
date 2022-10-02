@@ -5,8 +5,8 @@
         <remote name="darknius22" fetch="https://github.com/darknius22" />
         
         <!-- Trees -->
-        <project path="device/xiaomi/juice" name="darknius22/device_xiaomi_juice" remote="github" revision="los" clone-depth="1" />
-        <project path="vendor/xiaomi/juice" name="darknius22/vendor_juice" remote="github" revision="snow" clone-depth="1" />
+        <project path="device/xiaomi/juice" name="darknius20/devise" remote="github" revision="los20" clone-depth="1" />
+        <project path="vendor/xiaomi/juice" name="darknius20/android_vendor_xiaomi_juice" remote="github" revision="11.0" clone-depth="1" />
         <project path="kernel/xiaomi/juice" name="darknius20/guuji_kernel_juice" remote="github" revision="main.stbl" clone-depth="1" />
         
         <!-- Clang -->
