@@ -6,8 +6,8 @@
         <remote name="OhMyVenyx" fetch="https://gitlab.com/OhMyVenyx" />
         
         <!-- Trees -->
-        <project path="device/xiaomi/juice" name="darknius22/device_xiaomi_juice" remote="github" revision="kscope" clone-depth="1" />
-        <project path="vendor/xiaomi/juice" name="darknius22/vendor_juice" remote="github" revision="snow" clone-depth="1" />
+        <project path="device/xiaomi/juice" name="darknius20/devise" remote="github" revision="kscope" clone-depth="1" />
+        <project path="vendor/xiaomi/juice" name="darknius20/android_vendor_xiaomi_juice" remote="github" revision="11.0" clone-depth="1" />
         <project path="kernel/xiaomi/juice" name="darknius20/jasjus" remote="github" revision="nimf" clone-depth="1" />
         
         <!-- Clang -->
